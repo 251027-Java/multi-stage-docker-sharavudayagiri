@@ -1,0 +1,12 @@
+# Maven build output
+target/
+
+# Git metadata
+.git/
+
+# Markdown files
+*.md
+
+# IDE files
+.idea/
+.vscode/
